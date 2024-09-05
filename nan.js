@@ -35,3 +35,14 @@
 // var y = "5";
 // console.log(x === y)
 // console.log(x == y)
+
+// var x = true;
+// console.log(x)
+// console.log(!x)
+
+// var x = "";
+// console.log(!!x)
+
+// var x = "sifat";
+// console.log(!!x)
+
